@@ -65,6 +65,7 @@ This project uses the `advertorch` and `Foolbox` libraries.
   booktitle = {NeurIPS},
   year      = {2023}
 }
-2. We use the LPIPS metric from Zhang et al. "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric", CVPR'18.
+2.Olivier J H´enaff, Robbe LT Goris, and Eero P Simoncelli. Perceptual straightening of natural videos. Nature neuroscience, 22(6):984–991, 2019
+3. We use the LPIPS metric from Zhang et al. "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric", CVPR'18.
 
-3. We use the diffusion models for both cifar10 and cifar100 from Karas et al. "Elucidating the Design Space of Diffusion-Based Generative Models (EDM)", NeurIPS'22. 
+4. We use the diffusion models for both cifar10 and cifar100 from Karas et al. "Elucidating the Design Space of Diffusion-Based Generative Models (EDM)", NeurIPS'22. 
